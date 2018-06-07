@@ -1,0 +1,22 @@
+/*
+
+selector {
+  property: value;
+  property; value;
+}
+
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ECE2D0;
+}
+
+h1 {
+  font-size: 60px;
+  color: #7FD1B9;
+}
+
+ul {
+  list-style-type: square
+}
